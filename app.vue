@@ -12,15 +12,15 @@
           Bienvenue dans ce test technique conçut par l'équipe d'Henoo !
         </p>
         <p class="mx-auto mt-6 max-w-2xl text-lg leading-5 text-gray-600">
-          Le but de ce test est d'évaluer tes compétences sur des
-          technologies web que nous utilisons pour nos projets. Le principe va
-          être de créer une page en reproduisant le plus fidèlement possible une
-          maquette donnée. <br />
+          Le but de ce test est d'évaluer tes compétences sur des technologies
+          web que nous utilisons pour nos projets. Le principe va être de créer
+          une page en reproduisant le plus fidèlement possible une maquette
+          donnée. <br />
           <br />
           Nous allons nous intéresser à l'aspect esthétique et design de la page
           il n'est donc pas nécessaire d'implémenter le côté "fonctionnel" des
           boutons et menus mais si tu souhaites nous montrer tes talents de
-          développeur et ajouter des fonctionnalités à ta création fais toi
+          développeur et ajouter des fonctionnalités à ta création fait toi
           plaisir !
           <br />
           <br />
@@ -78,7 +78,7 @@ const features = [
   {
     name: "Fin du test",
     description:
-      "Lorsque tu as fini penses à bien commit tout tes changements sur ton dépot personnel puis envoi nous par email le liens vers ce dépot.",
+      "Lorsque tu as fini pense à bien commit tous tes changements sur ton dépôt personnel puis envoi nous par email le lien vers ce dépôt.",
   },
 ];
 </script>
