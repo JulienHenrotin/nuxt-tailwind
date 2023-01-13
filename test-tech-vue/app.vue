@@ -9,7 +9,7 @@
           Test technique dev front web
         </p>
         <p class="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
-          Bienvenue dans ce technique conçut par l'équipe technique d'Henoo !
+          Bienvenue dans ce test technique conçut par l'équipe d'Henoo !
         </p>
         <p class="mx-auto mt-6 max-w-2xl text-lg leading-5 text-gray-600">
           Le but de ce test est d'évaluer tes compétences sur des
